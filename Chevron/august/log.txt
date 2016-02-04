@@ -1,0 +1,3374 @@
+Entities thread id: 1354931
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : AC5246494 1037 PASCAGOULA MS TRM CHEVRON DIESEL #2
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : AC5246494 1107 ORLANDO FL TRM KINDER MORGAN DIESEL #2
+[datetime.datetime(2015, 8, 5, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+2015-08-12 00:00:00 1
+2015-08-13 00:00:00 1
+2015-08-14 00:00:00 1
+2015-08-15 00:00:00 1
+2015-08-16 00:00:00 1
+2015-08-17 00:00:00 1
+2015-08-18 00:00:00 1
+2015-08-19 00:00:00 1
+2015-08-20 00:00:00 1
+2015-08-21 00:00:00 1
+2015-08-22 00:00:00 1
+2015-08-23 00:00:00 1
+2015-08-24 00:00:00 1
+2015-08-25 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D'), Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D'), Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 2
+[Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 3
+2015-08-28 00:00:00 3
+2015-08-29 00:00:00 3
+2015-08-30 00:00:00 3
+2015-08-31 00:00:00 3
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w1
+2015-08-13    w1
+2015-08-14    w1
+2015-08-15    w1
+2015-08-16    w1
+2015-08-17    w1
+2015-08-18    w1
+2015-08-19    w1
+2015-08-20    w1
+2015-08-21    w1
+2015-08-22    w1
+2015-08-23    w1
+2015-08-24    w1
+2015-08-25    w1
+2015-08-26    w2
+2015-08-27    w3
+2015-08-28    w3
+2015-08-29    w3
+2015-08-30    w3
+2015-08-31    w3
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                     0                      0
+2015-08-02                   w1                     0                      0
+2015-08-03                   w1                     0                      0
+2015-08-04                   w1                     0                      0
+2015-08-05                   w1                     0                      0
+2015-08-06                   w1                     0                      0
+2015-08-07                   w1                     0                      0
+2015-08-08                   w1                     0                      0
+2015-08-09                   w1                     0                      0
+2015-08-10                   w1                     0                      0
+2015-08-11                   w1                     0                      0
+2015-08-12                   w1                     0                      0
+2015-08-13                   w1                     0                      0
+2015-08-14                   w1                     0                      0
+2015-08-15                   w1                     0                      0
+2015-08-16                   w1                     0                      0
+2015-08-17                   w1                     0                      0
+2015-08-18                   w1                     0                      0
+2015-08-19                   w1                     0                      0
+2015-08-20                   w1                     0                      0
+2015-08-21                   w1                  7500                   7500
+2015-08-22                   w1                     0                   7500
+2015-08-23                   w1                     0                   7500
+2015-08-24                   w1                     0                   7500
+2015-08-25                   w1                     0                   7500
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w2                     0                      0
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w3                    -1                     -1
+2015-08-28                   w3                    -1                     -1
+2015-08-29                   w3                     0                      0
+2015-08-30                   w3                     0                      0
+2015-08-31                   w3                     0                      0
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+7500 0 7500
+7500 7500 0
+7500 7500 0
+7500 7500 0
+7500 7500 0
+7500 7500 0
+-1 7500 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+7500 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+7500 7500 0
+7500 7500 0
+Last Day is Assumed to be true!
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Unable to fetch Opening Balance
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : AC5246494 3352 COLUMBUS GA TRM KINDER MORGAN DIESEL #2
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : AC5246494 3355 CHATTANOOGA TN TRM K MORGAN DIESEL #2
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : AC5246494 3368 MACON GA TRM VECENERGY DIESEL #2
+[datetime.datetime(2015, 8, 5, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+2015-08-12 00:00:00 1
+2015-08-13 00:00:00 1
+2015-08-14 00:00:00 1
+2015-08-15 00:00:00 1
+2015-08-16 00:00:00 1
+2015-08-17 00:00:00 1
+2015-08-18 00:00:00 1
+2015-08-19 00:00:00 1
+2015-08-20 00:00:00 1
+2015-08-21 00:00:00 1
+2015-08-22 00:00:00 1
+2015-08-23 00:00:00 1
+2015-08-24 00:00:00 1
+2015-08-25 00:00:00 1
+2015-08-26 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D'), Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D'), Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D'), Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 2
+2015-08-28 00:00:00 2
+2015-08-29 00:00:00 2
+2015-08-30 00:00:00 2
+2015-08-31 00:00:00 2
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w1
+2015-08-13    w1
+2015-08-14    w1
+2015-08-15    w1
+2015-08-16    w1
+2015-08-17    w1
+2015-08-18    w1
+2015-08-19    w1
+2015-08-20    w1
+2015-08-21    w1
+2015-08-22    w1
+2015-08-23    w1
+2015-08-24    w1
+2015-08-25    w1
+2015-08-26    w1
+2015-08-27    w2
+2015-08-28    w2
+2015-08-29    w2
+2015-08-30    w2
+2015-08-31    w2
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                     0                      0
+2015-08-02                   w1                     0                      0
+2015-08-03                   w1                     0                      0
+2015-08-04                   w1                     0                      0
+2015-08-05                   w1                     0                      0
+2015-08-06                   w1                     0                      0
+2015-08-07                   w1                     0                      0
+2015-08-08                   w1                     0                      0
+2015-08-09                   w1                     0                      0
+2015-08-10                   w1                     0                      0
+2015-08-11                   w1                     0                      0
+2015-08-12                   w1                     0                      0
+2015-08-13                   w1                     0                      0
+2015-08-14                   w1                     0                      0
+2015-08-15                   w1                     0                      0
+2015-08-16                   w1                     0                      0
+2015-08-17                   w1                     0                      0
+2015-08-18                   w1                     0                      0
+2015-08-19                   w1                     0                      0
+2015-08-20                   w1                     0                      0
+2015-08-21                   w1                     0                      0
+2015-08-22                   w1                     0                      0
+2015-08-23                   w1                     0                      0
+2015-08-24                   w1                     0                      0
+2015-08-25                   w1                     0                      0
+2015-08-26                   w1                     0                      0
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w2                    -1                     -1
+2015-08-28                   w2                    -1                     -1
+2015-08-29                   w2                     0                      0
+2015-08-30                   w2                     0                      0
+2015-08-31                   w2                  7499                   7499
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+-1 0 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+0 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+0 0 0
+7499 0 7499
+Last Day is Assumed to be true!
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Unable to fetch Opening Balance
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : AC5246494 3369 MONTGOMERY AL TRM VECENERGY DIESEL #2
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : GL5246494 1083 FRESNO CA TRM KINDER MORGAN DIESEL #2
+[datetime.datetime(2015, 8, 5, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D')]
+2015-08-05 00:00:00 2
+2015-08-06 00:00:00 2
+2015-08-07 00:00:00 2
+2015-08-08 00:00:00 2
+2015-08-09 00:00:00 2
+2015-08-10 00:00:00 2
+2015-08-11 00:00:00 2
+[Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 3
+2015-08-13 00:00:00 3
+2015-08-14 00:00:00 3
+2015-08-15 00:00:00 3
+2015-08-16 00:00:00 3
+2015-08-17 00:00:00 3
+2015-08-18 00:00:00 3
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 4
+2015-08-20 00:00:00 4
+2015-08-21 00:00:00 4
+2015-08-22 00:00:00 4
+2015-08-23 00:00:00 4
+2015-08-24 00:00:00 4
+2015-08-25 00:00:00 4
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 5
+[Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 6
+2015-08-28 00:00:00 6
+2015-08-29 00:00:00 6
+2015-08-30 00:00:00 6
+2015-08-31 00:00:00 6
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w2
+2015-08-06    w2
+2015-08-07    w2
+2015-08-08    w2
+2015-08-09    w2
+2015-08-10    w2
+2015-08-11    w2
+2015-08-12    w3
+2015-08-13    w3
+2015-08-14    w3
+2015-08-15    w3
+2015-08-16    w3
+2015-08-17    w3
+2015-08-18    w3
+2015-08-19    w4
+2015-08-20    w4
+2015-08-21    w4
+2015-08-22    w4
+2015-08-23    w4
+2015-08-24    w4
+2015-08-25    w4
+2015-08-26    w5
+2015-08-27    w6
+2015-08-28    w6
+2015-08-29    w6
+2015-08-30    w6
+2015-08-31    w6
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                  2900                  13807
+2015-08-02                   w1                  2800                  21907
+2015-08-03                   w1                     0                  21907
+2015-08-04                   w1                  7600                  29507
+Opening Balance Lifted_Daily 3800
+Opening Balance Lifted_Weekly 10907
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-05                   w2                     0                      0
+2015-08-06                   w2                     0                      0
+2015-08-07                   w2                  7500                   7500
+2015-08-08                   w2                 10600                  18100
+2015-08-09                   w2                  5300                  23400
+2015-08-10                   w2                  4500                  27900
+2015-08-11                   w2                     0                  27900
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w3                  5300                   5300
+2015-08-13                   w3                     0                   5300
+2015-08-14                   w3                     0                   5300
+2015-08-15                   w3                     0                   7400
+2015-08-16                   w3                  7501                  14901
+2015-08-17                   w3                  3800                  18701
+2015-08-18                   w3                 10600                  29301
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w4                  3000                   3000
+2015-08-20                   w4                  5300                   8300
+2015-08-21                   w4                     0                   8300
+2015-08-22                   w4                     0                   8300
+2015-08-23                   w4                     0                   8300
+2015-08-24                   w4                 15000                  23300
+2015-08-25                   w4                  7500                  30800
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w5                  5300                   5300
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w6                    -1                     -1
+2015-08-28                   w6                    -1                     -1
+2015-08-29                   w6                 12400                  34900
+2015-08-30                   w6                     0                  34900
+2015-08-31                   w6                     0                  34900
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+11000 2900 2800
+11000 11000 0
+18600 11000 7600
+18600 18600 0
+18600 18600 0
+26100 18600 7500
+36700 26100 10600
+42000 36700 5300
+46500 42000 4500
+46500 46500 0
+59500 46500 5300
+59500 59500 0
+59500 59500 0
+61600 59500 0
+69101 61600 7501
+72901 69101 3800
+83501 72901 10600
+86501 83501 3000
+91801 86501 5300
+91801 91801 0
+91801 91801 0
+91801 91801 0
+106801 91801 15000
+114301 106801 7500
+119601 114301 5300
+-1 119601 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+149201 -1 12400
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+149201 149201 0
+149201 149201 0
+Last Day is Assumed to be true!
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Opening Balance Lifted_Daily 3800
+Opening Balance Lifted_Weekly 10907
+Modification_UnSuccessful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : AC5246494 1025 DORAVILLE GA TRM CHEVRON DIESEL #2
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 1002 TRACY CA TRM CHEVRON DIESEL #2
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 5
+2015-08-28 00:00:00 5
+2015-08-29 00:00:00 5
+2015-08-30 00:00:00 5
+2015-08-31 00:00:00 5
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w5
+2015-08-28    w5
+2015-08-29    w5
+2015-08-30    w5
+2015-08-31    w5
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                     -1
+2015-08-07                   w1                     0                   7506
+2015-08-08                   w1                     0                   7506
+2015-08-09                   w1                     0                   7506
+2015-08-10                   w1                  7505                  15011
+2015-08-11                   w1                     0                  15011
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                     0                      0
+2015-08-13                   w2                  7504                   7504
+2015-08-14                   w2                     0                   7504
+2015-08-15                   w2                     0                   7504
+2015-08-16                   w2                     0                   7504
+2015-08-17                   w2                  7505                  15009
+2015-08-18                   w2                  7607                  22616
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                     0                      0
+2015-08-20                   w3                  7503                   7503
+2015-08-21                   w3                  7606                  15109
+2015-08-22                   w3                     0                  15109
+2015-08-23                   w3                     0                  15109
+2015-08-24                   w3                  7607                  22716
+2015-08-25                   w3                     0                  22716
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                     0                      0
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w5                    -1                     -1
+2015-08-28                   w5                    -1                     -1
+2015-08-29                   w5                     0                      0
+2015-08-30                   w5                     0                      0
+2015-08-31                   w5                     0                      0
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Not enough Data avaiable to fill lifted Daily and Monthly since next day Monthly
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+22617 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+22617 22617 0
+22617 22617 0
+30122 22617 7505
+30122 30122 0
+30122 30122 0
+37626 30122 7504
+37626 37626 0
+37626 37626 0
+37626 37626 0
+45131 37626 7505
+52738 45131 7607
+52738 52738 0
+60241 52738 7503
+67847 60241 7606
+67847 67847 0
+67847 67847 0
+75454 67847 7607
+75454 75454 0
+75454 75454 0
+-1 75454 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+75454 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+75454 75454 0
+75454 75454 0
+Last Day is Assumed to be true!
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 1005 RICHMOND CA TRM CHEVRON DIESEL #2
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 5
+2015-08-28 00:00:00 5
+2015-08-29 00:00:00 5
+2015-08-30 00:00:00 5
+2015-08-31 00:00:00 5
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w5
+2015-08-28    w5
+2015-08-29    w5
+2015-08-30    w5
+2015-08-31    w5
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                     -1
+2015-08-07                   w1                     0                  22031
+2015-08-08                   w1                     0                  22031
+2015-08-09                   w1                     0                  22031
+2015-08-10                   w1                     0                  22031
+2015-08-11                   w1                 15024                  37055
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                  5978                   5978
+2015-08-13                   w2                  7319                  13297
+2015-08-14                   w2                     0                  13297
+2015-08-15                   w2                     0                  18899
+2015-08-16                   w2                     0                  18899
+2015-08-17                   w2                  7515                  26414
+2015-08-18                   w2                  7520                  33934
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                 15010                  15010
+2015-08-20                   w3                     0                  15010
+2015-08-21                   w3                 21416                  36426
+2015-08-22                   w3                  6005                  42431
+2015-08-23                   w3                     0                  42431
+2015-08-24                   w3                 14727                  57158
+2015-08-25                   w3                     0                  57158
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                 15112                  15112
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w5                    -1                     -1
+2015-08-28                   w5                    -1                     -1
+2015-08-29                   w5                     0                  45084
+2015-08-30                   w5                     0                  45084
+2015-08-31                   w5                  7408                  52492
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Not enough Data avaiable to fill lifted Daily and Monthly since next day Monthly
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+55789 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+55789 55789 0
+55789 55789 0
+55789 55789 0
+70813 55789 15024
+76791 70813 5978
+84110 76791 7319
+84110 84110 0
+89712 84110 0
+89712 89712 0
+97227 89712 7515
+104747 97227 7520
+119757 104747 15010
+119757 119757 0
+141173 119757 21416
+147178 141173 6005
+147178 147178 0
+161905 147178 14727
+161905 161905 0
+177017 161905 15112
+-1 177017 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+206989 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+206989 206989 0
+214397 206989 7408
+Last Day is Assumed to be true!
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 1006 SACRAMENTO CA TRM CHEVRON DIESEL #2
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 5
+2015-08-28 00:00:00 5
+2015-08-29 00:00:00 5
+2015-08-30 00:00:00 5
+2015-08-31 00:00:00 5
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w5
+2015-08-28    w5
+2015-08-29    w5
+2015-08-30    w5
+2015-08-31    w5
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                     -1
+2015-08-07                   w1                  7498                  22495
+2015-08-08                   w1                     0                  22495
+2015-08-09                   w1                     0                  22495
+2015-08-10                   w1                 14991                  37486
+2015-08-11                   w1                     0                  37486
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                 29892                  29892
+2015-08-13                   w2                     0                  29892
+2015-08-14                   w2                  7497                  37389
+2015-08-15                   w2                     0                  37389
+2015-08-16                   w2                     0                  37389
+2015-08-17                   w2                     0                  37389
+2015-08-18                   w2                  7494                  44883
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                     0                      0
+2015-08-20                   w3                  7494                   7494
+2015-08-21                   w3                  7499                  14993
+2015-08-22                   w3                  7623                  22616
+2015-08-23                   w3                 11320                  33936
+2015-08-24                   w3                  7497                  41433
+2015-08-25                   w3                     0                  41433
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                     0                      0
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w5                    -1                     -1
+2015-08-28                   w5                    -1                     -1
+2015-08-29                   w5                     0                  16589
+2015-08-30                   w5                     0                  16589
+2015-08-31                   w5                 15086                  31675
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Not enough Data avaiable to fill lifted Daily and Monthly since next day Monthly
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+37551 -1 7498
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+37551 37551 0
+37551 37551 0
+52542 37551 14991
+52542 52542 0
+89932 52542 29892
+89932 89932 0
+97429 89932 7497
+97429 97429 0
+97429 97429 0
+97429 97429 0
+104923 97429 7494
+104923 104923 0
+112417 104923 7494
+119916 112417 7499
+127539 119916 7623
+138859 127539 11320
+146356 138859 7497
+146356 146356 0
+146356 146356 0
+-1 146356 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+162945 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+162945 162945 0
+178031 162945 15086
+Last Day is Assumed to be true!
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 1010 SAN JOSE CA TRM CHEVRON DIESEL #2
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 5
+2015-08-28 00:00:00 5
+2015-08-29 00:00:00 5
+2015-08-30 00:00:00 5
+2015-08-31 00:00:00 5
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w5
+2015-08-28    w5
+2015-08-29    w5
+2015-08-30    w5
+2015-08-31    w5
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                     -1
+2015-08-07                   w1                 15005                  30011
+2015-08-08                   w1                  7502                  37513
+2015-08-09                   w1                     0                  37513
+2015-08-10                   w1                  7131                  44644
+2015-08-11                   w1                  7503                  52147
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                 13777                  13777
+2015-08-13                   w2                  7503                  21280
+2015-08-14                   w2                  7502                  28782
+2015-08-15                   w2                     0                  43788
+2015-08-16                   w2                     0                  43788
+2015-08-17                   w2                     0                  43788
+2015-08-18                   w2                  7772                  51560
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                  7500                   7500
+2015-08-20                   w3                  7502                  15002
+2015-08-21                   w3                  7506                  22508
+2015-08-22                   w3                     0                  22508
+2015-08-23                   w3                     0                  22508
+2015-08-24                   w3                     0                  22508
+2015-08-25                   w3                  7508                  30016
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                  6504                   6504
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w5                    -1                     -1
+2015-08-28                   w5                    -1                     -1
+2015-08-29                   w5                     0                  21507
+2015-08-30                   w5                     0                  21507
+2015-08-31                   w5                 14502                  36009
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Not enough Data avaiable to fill lifted Daily and Monthly since next day Monthly
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+44734 -1 15005
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+52236 44734 7502
+52236 52236 0
+59367 52236 7131
+66870 59367 7503
+80647 66870 13777
+88150 80647 7503
+95652 88150 7502
+110658 95652 0
+110658 110658 0
+110658 110658 0
+118430 110658 7772
+125930 118430 7500
+133432 125930 7502
+140938 133432 7506
+140938 140938 0
+140938 140938 0
+140938 140938 0
+148446 140938 7508
+154950 148446 6504
+-1 154950 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+169953 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+169953 169953 0
+184455 169953 14502
+Last Day is Assumed to be true!
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 1020 PANAMA CITY FL TRM CHEVRON DIESEL #2
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 1021 FT LAUDERDALE FL TRM CHEVRON DIESEL #2
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 5
+2015-08-28 00:00:00 5
+2015-08-29 00:00:00 5
+2015-08-30 00:00:00 5
+2015-08-31 00:00:00 5
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w5
+2015-08-28    w5
+2015-08-29    w5
+2015-08-30    w5
+2015-08-31    w5
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                     -1
+2015-08-07                   w1                 15000                  37601
+2015-08-08                   w1                  7500                  45101
+2015-08-09                   w1                     0                  45101
+2015-08-10                   w1                 15025                  60126
+2015-08-11                   w1                 15001                  75127
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                 15010                  15010
+2015-08-13                   w2                 14900                  29910
+2015-08-14                   w2                 15001                  44911
+2015-08-15                   w2                 15000                  59911
+2015-08-16                   w2                     0                  59911
+2015-08-17                   w2                 15001                  74912
+2015-08-18                   w2                  7501                  82413
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                     0                      0
+2015-08-20                   w3                 17500                  17500
+2015-08-21                   w3                 15101                  32601
+2015-08-22                   w3                 15001                  47602
+2015-08-23                   w3                     0                  47602
+2015-08-24                   w3                 13514                  61116
+2015-08-25                   w3                 21095                  82211
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                 15000                  15000
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w5                    -1                     -1
+2015-08-28                   w5                    -1                     -1
+2015-08-29                   w5                     0                  22500
+2015-08-30                   w5                     0                  22500
+2015-08-31                   w5                     0                  22500
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Not enough Data avaiable to fill lifted Daily and Monthly since next day Monthly
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+60101 -1 15000
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+67601 60101 7500
+67601 67601 0
+82626 67601 15025
+97627 82626 15001
+112637 97627 15010
+127537 112637 14900
+142538 127537 15001
+157538 142538 15000
+157538 157538 0
+172539 157538 15001
+180040 172539 7501
+180040 180040 0
+197540 180040 17500
+212641 197540 15101
+227642 212641 15001
+227642 227642 0
+241156 227642 13514
+262251 241156 21095
+277251 262251 15000
+-1 277251 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+284751 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+284751 284751 0
+284751 284751 0
+Last Day is Assumed to be true!
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 1022 TAMPA FL TRM CHEVRON DIESEL #2
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 1032 COLLINS MS TRM CHEVRON DIESEL #2
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 1037 PASCAGOULA MS TRM CHEVRON DIESEL #2
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+2015-08-26 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D'), Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 4
+2015-08-28 00:00:00 4
+2015-08-29 00:00:00 4
+2015-08-30 00:00:00 4
+2015-08-31 00:00:00 4
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w3
+2015-08-27    w4
+2015-08-28    w4
+2015-08-29    w4
+2015-08-30    w4
+2015-08-31    w4
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                     -1
+2015-08-07                   w1                     0                   7512
+2015-08-08                   w1                     0                   7512
+2015-08-09                   w1                     0                   7512
+2015-08-10                   w1                     0                   7512
+2015-08-11                   w1                     0                   7512
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                     0                      0
+2015-08-13                   w2                     0                      0
+2015-08-14                   w2                     0                      0
+2015-08-15                   w2                     0                      0
+2015-08-16                   w2                     0                      0
+2015-08-17                   w2                  7518                   7518
+2015-08-18                   w2                     0                   7518
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                     0                      0
+2015-08-20                   w3                     0                      0
+2015-08-21                   w3                     0                      0
+2015-08-22                   w3                     0                      0
+2015-08-23                   w3                     0                      0
+2015-08-24                   w3                     0                      0
+2015-08-25                   w3                     0                      0
+2015-08-26                   w3                     0                      0
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w4                    -1                     -1
+2015-08-28                   w4                    -1                     -1
+2015-08-29                   w4                     0                      0
+2015-08-30                   w4                     0                      0
+2015-08-31                   w4                     0                      0
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Not enough Data avaiable to fill lifted Daily and Monthly since next day Monthly
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+15172 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+15172 15172 0
+15172 15172 0
+15172 15172 0
+15172 15172 0
+15172 15172 0
+15172 15172 0
+15172 15172 0
+15172 15172 0
+15172 15172 0
+22690 15172 7518
+22690 22690 0
+22690 22690 0
+22690 22690 0
+22690 22690 0
+22690 22690 0
+22690 22690 0
+22690 22690 0
+22690 22690 0
+22690 22690 0
+-1 22690 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+22690 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+22690 22690 0
+22690 22690 0
+Last Day is Assumed to be true!
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 1040 EL SEGUNDO CA TRM CHEVRON DIESEL #2
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 5
+2015-08-28 00:00:00 5
+2015-08-29 00:00:00 5
+2015-08-30 00:00:00 5
+2015-08-31 00:00:00 5
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w5
+2015-08-28    w5
+2015-08-29    w5
+2015-08-30    w5
+2015-08-31    w5
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                     -1
+2015-08-07                   w1                  2079                   4713
+2015-08-08                   w1                     0                   4713
+2015-08-09                   w1                     0                   4713
+2015-08-10                   w1                  2482                   7195
+2015-08-11                   w1                  1082                   8277
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                  1479                   1479
+2015-08-13                   w2                     0                   1479
+2015-08-14                   w2                     0                   1479
+2015-08-15                   w2                     0                   1479
+2015-08-16                   w2                     0                   1479
+2015-08-17                   w2                     0                   1479
+2015-08-18                   w2                     0                   1479
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                     0                      0
+2015-08-20                   w3                     0                      0
+2015-08-21                   w3                     0                      0
+2015-08-22                   w3                     0                      0
+2015-08-23                   w3                     0                      0
+2015-08-24                   w3                  1790                   1790
+2015-08-25                   w3                  1391                   3181
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                     0                      0
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w5                    -1                     -1
+2015-08-28                   w5                    -1                     -1
+2015-08-29                   w5                     0                   5920
+2015-08-30                   w5                     0                   5920
+2015-08-31                   w5                     0                   7271
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Not enough Data avaiable to fill lifted Daily and Monthly since next day Monthly
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+10416 -1 2079
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+10416 10416 0
+10416 10416 0
+12898 10416 2482
+13980 12898 1082
+15459 13980 1479
+15459 15459 0
+15459 15459 0
+15459 15459 0
+15459 15459 0
+15459 15459 0
+15459 15459 0
+15459 15459 0
+15459 15459 0
+15459 15459 0
+15459 15459 0
+15459 15459 0
+17249 15459 1790
+18640 17249 1391
+20917 18640 0
+-1 20917 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+26837 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+26837 26837 0
+28188 26837 0
+Last Day is Assumed to be true!
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 1042 LAS VEGAS NV TRM CALNEV DIESEL #2
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 5
+2015-08-28 00:00:00 5
+2015-08-29 00:00:00 5
+2015-08-30 00:00:00 5
+2015-08-31 00:00:00 5
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w5
+2015-08-28    w5
+2015-08-29    w5
+2015-08-30    w5
+2015-08-31    w5
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                     -1
+2015-08-07                   w1                  2920                  15059
+2015-08-08                   w1                  3332                  18391
+2015-08-09                   w1                 10500                  28891
+2015-08-10                   w1                     0                  28891
+2015-08-11                   w1                     0                  28891
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                 17499                  17499
+2015-08-13                   w2                  8999                  26498
+2015-08-14                   w2                  9000                  35498
+2015-08-15                   w2                     0                  35498
+2015-08-16                   w2                     0                  35498
+2015-08-17                   w2                     0                  35498
+2015-08-18                   w2                 10800                  59948
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                  8301                   8301
+2015-08-20                   w3                 17600                  25901
+2015-08-21                   w3                     0                  25901
+2015-08-22                   w3                     0                  25901
+2015-08-23                   w3                     0                  25901
+2015-08-24                   w3                     0                  25901
+2015-08-25                   w3                     0                  25901
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                 15002                  15002
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w5                    -1                     -1
+2015-08-28                   w5                    -1                     -1
+2015-08-29                   w5                     0                  45569
+2015-08-30                   w5                     0                  45569
+2015-08-31                   w5                  5499                  51068
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Not enough Data avaiable to fill lifted Daily and Monthly since next day Monthly
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+23362 -1 2920
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+26694 23362 3332
+37194 26694 10500
+37194 37194 0
+37194 37194 0
+54693 37194 17499
+63692 54693 8999
+72692 63692 9000
+72692 72692 0
+72692 72692 0
+72692 72692 0
+97142 72692 10800
+105443 97142 8301
+123043 105443 17600
+123043 123043 0
+123043 123043 0
+123043 123043 0
+123043 123043 0
+123043 123043 0
+138045 123043 15002
+-1 138045 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+168612 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+168612 168612 0
+174111 168612 5499
+Last Day is Assumed to be true!
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 1043 MONTEBELLO CA TRM CHEVRON DIESEL #2
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 5
+2015-08-28 00:00:00 5
+2015-08-29 00:00:00 5
+2015-08-30 00:00:00 5
+2015-08-31 00:00:00 5
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w5
+2015-08-28    w5
+2015-08-29    w5
+2015-08-30    w5
+2015-08-31    w5
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                     -1
+2015-08-07                   w1                 45195                 135671
+2015-08-08                   w1                 14799                 150470
+2015-08-09                   w1                     0                 150470
+2015-08-10                   w1                 36805                 194976
+2015-08-11                   w1                 55090                 265360
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                 51908                  51908
+2015-08-13                   w2                 23102                  75010
+2015-08-14                   w2                 52890                 135296
+2015-08-15                   w2                 15294                 171180
+2015-08-16                   w2                     0                 171180
+2015-08-17                   w2                 22391                 193571
+2015-08-18                   w2                 70981                 264552
+Modification_Successful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                 21402                  21402
+2015-08-20                   w3                 43750                  65152
+2015-08-21                   w3                 51730                 116882
+2015-08-22                   w3                 13248                 130130
+2015-08-23                   w3                     0                 130130
+2015-08-24                   w3                 58581                 196411
+2015-08-25                   w3                 37986                 234397
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                  7296                   7296
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w5                    -1                     -1
+2015-08-28                   w5                    -1                     -1
+2015-08-29                   w5                 14997                 101757
+2015-08-30                   w5                     0                 101757
+2015-08-31                   w5                 14992                 116749
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Not enough Data avaiable to fill lifted Daily and Monthly since next day Monthly
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+253448 -1 45195
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+268247 253448 14799
+268247 268247 0
+312753 268247 36805
+383137 312753 55090
+435045 383137 51908
+458147 435045 23102
+518433 458147 52890
+554317 518433 15294
+554317 554317 0
+576708 554317 22391
+647689 576708 70981
+669091 647689 21402
+712841 669091 43750
+764571 712841 51730
+777819 764571 13248
+777819 777819 0
+844100 777819 58581
+882086 844100 37986
+896978 882086 7296
+-1 896978 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+991439 -1 14997
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+991439 991439 0
+1006431 991439 14992
+Last Day is Assumed to be true!
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 1043 MONTEBELLO CA TRM CHEVRON GASOLINE
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 1045 SALT LAKE CITY UT TRM CHEVRON DIESEL #2
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 5
+2015-08-28 00:00:00 5
+2015-08-29 00:00:00 5
+2015-08-30 00:00:00 5
+2015-08-31 00:00:00 5
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w5
+2015-08-28    w5
+2015-08-29    w5
+2015-08-30    w5
+2015-08-31    w5
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                     -1
+2015-08-07                   w1                 14160                  65135
+2015-08-08                   w1                  7495                  82630
+2015-08-09                   w1                     0                  82630
+2015-08-10                   w1                  3242                  85872
+2015-08-11                   w1                     0                  85872
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                     0                      0
+2015-08-13                   w2                 23532                  23532
+2015-08-14                   w2                  9800                  33332
+2015-08-15                   w2                     0                  61840
+2015-08-16                   w2                     0                  61840
+2015-08-17                   w2                     0                  61840
+2015-08-18                   w2                 35142                  96982
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                 13245                  13245
+2015-08-20                   w3                 34126                  47371
+2015-08-21                   w3                  7999                  55370
+2015-08-22                   w3                     0                  55370
+2015-08-23                   w3                     0                  55370
+2015-08-24                   w3                 10007                  65377
+2015-08-25                   w3                 23510                  88887
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                 14905                  14905
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w5                    -1                     -1
+2015-08-28                   w5                    -1                     -1
+2015-08-29                   w5                     0                  48946
+2015-08-30                   w5                     0                  48946
+2015-08-31                   w5                     0                  48946
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Not enough Data avaiable to fill lifted Daily and Monthly since next day Monthly
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+121457 -1 14160
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+138952 121457 7495
+138952 138952 0
+142194 138952 3242
+142194 142194 0
+152195 142194 0
+175727 152195 23532
+185527 175727 9800
+214035 185527 0
+214035 214035 0
+214035 214035 0
+249177 214035 35142
+262422 249177 13245
+296548 262422 34126
+304547 296548 7999
+304547 304547 0
+304547 304547 0
+314554 304547 10007
+338064 314554 23510
+352969 338064 14905
+-1 352969 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+387010 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+387010 387010 0
+387010 387010 0
+Last Day is Assumed to be true!
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 1046 SAN DIEGO CA TRM CHEVRON DIESEL #2
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+2015-08-12 00:00:00 1
+2015-08-13 00:00:00 1
+2015-08-14 00:00:00 1
+2015-08-15 00:00:00 1
+2015-08-16 00:00:00 1
+2015-08-17 00:00:00 1
+2015-08-18 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D'), Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 2
+2015-08-20 00:00:00 2
+2015-08-21 00:00:00 2
+2015-08-22 00:00:00 2
+2015-08-23 00:00:00 2
+2015-08-24 00:00:00 2
+2015-08-25 00:00:00 2
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 3
+[Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 4
+2015-08-28 00:00:00 4
+2015-08-29 00:00:00 4
+2015-08-30 00:00:00 4
+2015-08-31 00:00:00 4
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w1
+2015-08-13    w1
+2015-08-14    w1
+2015-08-15    w1
+2015-08-16    w1
+2015-08-17    w1
+2015-08-18    w1
+2015-08-19    w2
+2015-08-20    w2
+2015-08-21    w2
+2015-08-22    w2
+2015-08-23    w2
+2015-08-24    w2
+2015-08-25    w2
+2015-08-26    w3
+2015-08-27    w4
+2015-08-28    w4
+2015-08-29    w4
+2015-08-30    w4
+2015-08-31    w4
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                     -1
+2015-08-07                   w1                  7127                   7127
+2015-08-08                   w1                     0                   7127
+2015-08-09                   w1                     0                   7127
+2015-08-10                   w1                     0                   7127
+2015-08-11                   w1                     0                   7127
+2015-08-12                   w1                  7501                   7501
+2015-08-13                   w1                  7500                  15001
+2015-08-14                   w1                     0                  15001
+2015-08-15                   w1                     0                  15001
+2015-08-16                   w1                     0                  15001
+2015-08-17                   w1                  7502                  22503
+2015-08-18                   w1                     0                  22503
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w2                     0                      0
+2015-08-20                   w2                  7128                   7128
+2015-08-21                   w2                     0                   7128
+2015-08-22                   w2                     0                   7128
+2015-08-23                   w2                     0                   7128
+2015-08-24                   w2                     0                   7128
+2015-08-25                   w2                  7126                  14254
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w3                     0                      0
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w4                    -1                     -1
+2015-08-28                   w4                    -1                     -1
+2015-08-29                   w4                     0                      0
+2015-08-30                   w4                     0                      0
+2015-08-31                   w4                     0                      0
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Not enough Data avaiable to fill lifted Daily and Monthly since next day Monthly
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+14253 -1 7127
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+14253 14253 0
+14253 14253 0
+14253 14253 0
+14253 14253 0
+21754 14253 7501
+29254 21754 7500
+29254 29254 0
+29254 29254 0
+29254 29254 0
+36756 29254 7502
+36756 36756 0
+36756 36756 0
+43884 36756 7128
+43884 43884 0
+43884 43884 0
+43884 43884 0
+43884 43884 0
+51010 43884 7126
+51010 51010 0
+-1 51010 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+51010 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+51010 51010 0
+51010 51010 0
+Last Day is Assumed to be true!
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 1076 CHICO CA TRM KINDER MORGAN DIESEL #2
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 1083 FRESNO CA TRM KINDER MORGAN DIESEL #2
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 1102 N AUGUSTA SC #2 TRM K MORGAN DIESEL #2
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 1102 N AUGUSTA SC #2 TRM K MORGAN GASOLINE
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 1107 ORLANDO FL TRM KINDER MORGAN DIESEL #2
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+2015-08-12 00:00:00 1
+2015-08-13 00:00:00 1
+2015-08-14 00:00:00 1
+2015-08-15 00:00:00 1
+2015-08-16 00:00:00 1
+2015-08-17 00:00:00 1
+2015-08-18 00:00:00 1
+2015-08-19 00:00:00 1
+2015-08-20 00:00:00 1
+2015-08-21 00:00:00 1
+2015-08-22 00:00:00 1
+2015-08-23 00:00:00 1
+2015-08-24 00:00:00 1
+2015-08-25 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D'), Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D'), Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 2
+[Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 3
+2015-08-28 00:00:00 3
+2015-08-29 00:00:00 3
+2015-08-30 00:00:00 3
+2015-08-31 00:00:00 3
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w1
+2015-08-13    w1
+2015-08-14    w1
+2015-08-15    w1
+2015-08-16    w1
+2015-08-17    w1
+2015-08-18    w1
+2015-08-19    w1
+2015-08-20    w1
+2015-08-21    w1
+2015-08-22    w1
+2015-08-23    w1
+2015-08-24    w1
+2015-08-25    w1
+2015-08-26    w2
+2015-08-27    w3
+2015-08-28    w3
+2015-08-29    w3
+2015-08-30    w3
+2015-08-31    w3
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                     -1
+2015-08-07                   w1                     0                      0
+2015-08-08                   w1                     0                      0
+2015-08-09                   w1                     0                      0
+2015-08-10                   w1                     0                      0
+2015-08-11                   w1                     0                      0
+2015-08-12                   w1                     0                      0
+2015-08-13                   w1                     0                      0
+2015-08-14                   w1                     0                      0
+2015-08-15                   w1                     0                      0
+2015-08-16                   w1                     0                      0
+2015-08-17                   w1                     0                      0
+2015-08-18                   w1                     0                      0
+2015-08-19                   w1                     0                      0
+2015-08-20                   w1                     0                      0
+2015-08-21                   w1                  7500                   7500
+2015-08-22                   w1                     0                   7500
+2015-08-23                   w1                     0                   7500
+2015-08-24                   w1                     0                   7500
+2015-08-25                   w1                     0                   7500
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w2                     0                      0
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w3                    -1                     -1
+2015-08-28                   w3                    -1                     -1
+2015-08-29                   w3                     0                      0
+2015-08-30                   w3                     0                      0
+2015-08-31                   w3                     0                      0
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Not enough Data avaiable to fill lifted Daily and Monthly since next day Monthly
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+0 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+7500 0 7500
+7500 7500 0
+7500 7500 0
+7500 7500 0
+7500 7500 0
+7500 7500 0
+-1 7500 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+7500 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+7500 7500 0
+7500 7500 0
+Last Day is Assumed to be true!
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 2732 COLTON CA TRM KINDER MORGAN DIESEL #2
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 5
+2015-08-28 00:00:00 5
+2015-08-29 00:00:00 5
+2015-08-30 00:00:00 5
+2015-08-31 00:00:00 5
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w5
+2015-08-28    w5
+2015-08-29    w5
+2015-08-30    w5
+2015-08-31    w5
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                     -1
+2015-08-07                   w1                     0                  20700
+2015-08-08                   w1                  7600                  28300
+2015-08-09                   w1                 15399                  43699
+2015-08-10                   w1                 35801                  79500
+2015-08-11                   w1                     0                  79500
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                 15002                  15002
+2015-08-13                   w2                     0                  15002
+2015-08-14                   w2                     0                  15002
+2015-08-15                   w2                  7600                  29102
+2015-08-16                   w2                 15001                  44103
+2015-08-17                   w2                 22700                  66803
+2015-08-18                   w2                 15200                  82003
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                  7600                   7600
+2015-08-20                   w3                 15301                  22901
+2015-08-21                   w3                 15200                  38101
+2015-08-22                   w3                     0                  38101
+2015-08-23                   w3                     0                  38101
+2015-08-24                   w3                     0                  38101
+2015-08-25                   w3                 23000                  61101
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                     0                      0
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w5                    -1                     -1
+2015-08-28                   w5                    -1                     -1
+2015-08-29                   w5                     0                  51701
+2015-08-30                   w5                     0                  51701
+2015-08-31                   w5                     0                  51701
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Not enough Data avaiable to fill lifted Daily and Monthly since next day Monthly
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+28500 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+36100 28500 7600
+51499 36100 15399
+87300 51499 35801
+87300 87300 0
+102302 87300 15002
+102302 102302 0
+102302 102302 0
+116402 102302 7600
+131403 116402 15001
+154103 131403 22700
+169303 154103 15200
+176903 169303 7600
+192204 176903 15301
+207404 192204 15200
+207404 207404 0
+207404 207404 0
+207404 207404 0
+230404 207404 23000
+230404 230404 0
+-1 230404 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+282105 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+282105 282105 0
+282105 282105 0
+Last Day is Assumed to be true!
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 2778 STOCKTON CA TRM NUSTAR DIESEL #2
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 3351 PHOENIX AZ TRM KINDER MORGAN DIESEL #2
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0)]
+[datetime.datetime(2015, 8, 5, 0, 0), datetime.datetime(2015, 8, 12, 0, 0), datetime.datetime(2015, 8, 19, 0, 0), datetime.datetime(2015, 8, 26, 0, 0), datetime.datetime(2015, 9, 2, 0, 0)]
+2015-08-01 00:00:00 1
+2015-08-02 00:00:00 1
+2015-08-03 00:00:00 1
+2015-08-04 00:00:00 1
+2015-08-05 00:00:00 1
+2015-08-06 00:00:00 1
+2015-08-07 00:00:00 1
+2015-08-08 00:00:00 1
+2015-08-09 00:00:00 1
+2015-08-10 00:00:00 1
+2015-08-11 00:00:00 1
+[Timestamp('2015-08-01 00:00:00', offset='D'), Timestamp('2015-08-02 00:00:00', offset='D'), Timestamp('2015-08-03 00:00:00', offset='D'), Timestamp('2015-08-04 00:00:00', offset='D'), Timestamp('2015-08-05 00:00:00', offset='D'), Timestamp('2015-08-06 00:00:00', offset='D'), Timestamp('2015-08-07 00:00:00', offset='D'), Timestamp('2015-08-08 00:00:00', offset='D'), Timestamp('2015-08-09 00:00:00', offset='D'), Timestamp('2015-08-10 00:00:00', offset='D'), Timestamp('2015-08-11 00:00:00', offset='D')]
+2015-08-12 00:00:00 2
+2015-08-13 00:00:00 2
+2015-08-14 00:00:00 2
+2015-08-15 00:00:00 2
+2015-08-16 00:00:00 2
+2015-08-17 00:00:00 2
+2015-08-18 00:00:00 2
+[Timestamp('2015-08-12 00:00:00', offset='D'), Timestamp('2015-08-13 00:00:00', offset='D'), Timestamp('2015-08-14 00:00:00', offset='D'), Timestamp('2015-08-15 00:00:00', offset='D'), Timestamp('2015-08-16 00:00:00', offset='D'), Timestamp('2015-08-17 00:00:00', offset='D'), Timestamp('2015-08-18 00:00:00', offset='D')]
+2015-08-19 00:00:00 3
+2015-08-20 00:00:00 3
+2015-08-21 00:00:00 3
+2015-08-22 00:00:00 3
+2015-08-23 00:00:00 3
+2015-08-24 00:00:00 3
+2015-08-25 00:00:00 3
+[Timestamp('2015-08-19 00:00:00', offset='D'), Timestamp('2015-08-20 00:00:00', offset='D'), Timestamp('2015-08-21 00:00:00', offset='D'), Timestamp('2015-08-22 00:00:00', offset='D'), Timestamp('2015-08-23 00:00:00', offset='D'), Timestamp('2015-08-24 00:00:00', offset='D'), Timestamp('2015-08-25 00:00:00', offset='D')]
+2015-08-26 00:00:00 4
+[Timestamp('2015-08-26 00:00:00', offset='D')]
+2015-08-27 00:00:00 5
+2015-08-28 00:00:00 5
+2015-08-29 00:00:00 5
+2015-08-30 00:00:00 5
+2015-08-31 00:00:00 5
+[Timestamp('2015-08-27 00:00:00', offset='D'), Timestamp('2015-08-28 00:00:00', offset='D'), Timestamp('2015-08-29 00:00:00', offset='D'), Timestamp('2015-08-30 00:00:00', offset='D'), Timestamp('2015-08-31 00:00:00', offset='D')]
+2015-08-01    w1
+2015-08-02    w1
+2015-08-03    w1
+2015-08-04    w1
+2015-08-05    w1
+2015-08-06    w1
+2015-08-07    w1
+2015-08-08    w1
+2015-08-09    w1
+2015-08-10    w1
+2015-08-11    w1
+2015-08-12    w2
+2015-08-13    w2
+2015-08-14    w2
+2015-08-15    w2
+2015-08-16    w2
+2015-08-17    w2
+2015-08-18    w2
+2015-08-19    w3
+2015-08-20    w3
+2015-08-21    w3
+2015-08-22    w3
+2015-08-23    w3
+2015-08-24    w3
+2015-08-25    w3
+2015-08-26    w4
+2015-08-27    w5
+2015-08-28    w5
+2015-08-29    w5
+2015-08-30    w5
+2015-08-31    w5
+Freq: D, Name: WeeksByLiftedGallons, dtype: object
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-01                   w1                    -1                     -1
+2015-08-02                   w1                    -1                     -1
+2015-08-03                   w1                    -1                     -1
+2015-08-04                   w1                    -1                     -1
+2015-08-05                   w1                    -1                     -1
+2015-08-06                   w1                    -1                     -1
+2015-08-07                   w1                 15100                  37800
+2015-08-08                   w1                  7500                  45300
+2015-08-09                   w1                     0                  45300
+2015-08-10                   w1                 34101                  79401
+2015-08-11                   w1                 15298                  94699
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-12                   w2                 30602                  30602
+2015-08-13                   w2                 22601                  53203
+2015-08-14                   w2                 25000                  78203
+2015-08-15                   w2                     0                 104104
+2015-08-16                   w2                     0                 104104
+2015-08-17                   w2                 29150                 133254
+2015-08-18                   w2                  7500                 140754
+Modification_Successful
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-19                   w3                 15000                  15000
+2015-08-20                   w3                 33675                  48675
+2015-08-21                   w3                 27802                  76477
+2015-08-22                   w3                     0                  76477
+2015-08-23                   w3                     0                  76477
+2015-08-24                   w3                     0                  76477
+2015-08-25                   w3                     0                  76477
+****Valid Week***
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-26                   w4                     0                      0
+****Invalid Week****
+           WeeksByLiftedGallons  lifted_gallons_Daily  lifted_gallons_Weekly
+2015-08-27                   w5                    -1                     -1
+2015-08-28                   w5                    -1                     -1
+2015-08-29                   w5                     0                      0
+2015-08-30                   w5                     0                      0
+2015-08-31                   w5                     0                      0
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+Not enough Data avaiable to fill lifted Daily and Monthly since next day Monthly
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+99152 -1 15100
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+106652 99152 7500
+106652 106652 0
+140753 106652 34101
+156051 140753 15298
+194155 156051 30602
+216756 194155 22601
+241756 216756 25000
+267657 241756 0
+267657 267657 0
+296807 267657 29150
+304307 296807 7500
+319307 304307 15000
+352982 319307 33675
+380784 352982 27802
+380784 380784 0
+380784 380784 0
+380784 380784 0
+380784 380784 0
+380784 380784 0
+-1 380784 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+-1 -1 -1
+No Enough Data available to Fill Lifted Gallons for daily and monthly using aposterioriNRD
+380784 -1 0
+Insufficient Data to Compute Daily Lifted using Monthly as it has a Missing Previous Day
+380784 380784 0
+380784 380784 0
+Last Day is Assumed to be true!
+Unable to fetch Opening Balance
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons NRD
+Modification_UnSuccessful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_Successful
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+No Enough Data available to Fill Lifted Gallons for daily and weekly using aposterioriNRD
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+The Lifted Gallons cant be modified using weekly Lifted, as it is already Modified using Monthly values 
+Modification_UnSuccessful
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 3352 COLUMBUS GA TRM KINDER MORGAN DIESEL #2
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 3368 MACON GA TRM VECENERGY DIESEL #2
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 3369 MONTGOMERY AL TRM VECENERGY DIESEL #2
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+***** Execution in Combination: Mansfield Chevron MANSFIELD OIL COMPANY : CHV5246494 3369 MONTGOMERY AL TRM VECENERGY GASOLINE
+No Weekly Lifted gallons to Compute week switches....
+ Exiting Execution.....
+Completed Execution Thanks for you Patience 
+0:00:59.806000
+Execution Started Please Wait.....
